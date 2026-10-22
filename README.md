@@ -4,7 +4,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.x](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg?logo=pytorch)](https://pytorch.org/)
 [![SciML](https://img.shields.io/badge/Domain-Combustion%20%26%20Clean%20Energy-007ACC.svg)](https://github.com/mohammedbasra-star)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammedbasra-star/gas-turbine-combustion-kinetics-node/blob/main/notebooks/quickstart_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammedbasra-star/gas-turbine-combustion-kinetics-node-/blob/main/notebooks/quickstart_demo.ipynb)
 
 A research repository in pure PyTorch dedicated to **stiff ordinary differential equation (Stiff ODE)** modeling of high-pressure gas turbine combustion kinetics, autoignition thermal runaway, and thermal $NO_x$ pollutant emissions.
 
@@ -91,8 +91,8 @@ Pollutant emission trends across lean ($\Phi < 1$) and rich ($\Phi > 1$) turbine
 
 ### Installation
 ```bash
-git clone https://github.com/mohammedbasra-star/gas-turbine-combustion-kinetics-node.git
-cd gas-turbine-combustion-kinetics-node
+git clone https://github.com/mohammedbasra-star/gas-turbine-combustion-kinetics-node-.git
+cd gas-turbine-combustion-kinetics-node-
 pip install -r requirements.txt
 ```
 
